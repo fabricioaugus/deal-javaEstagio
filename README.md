@@ -34,5 +34,5 @@
 
 <p>Sugestão de melhoria criar relação em genero com filme</p>
 
-<h4><font face="Courier" color="#AA0000">OBS.:</font> Não possui ligação com banco de dados, apenas está sendo gravado em arquivo do tipo csv</h4>
+<h4><a color="#AA0000">OBS.:</a> Não possui ligação com banco de dados, apenas está sendo gravado em arquivo do tipo csv</h4>
 
