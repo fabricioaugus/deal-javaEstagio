@@ -24,7 +24,7 @@
     <a href="https://imgbb.com/"><img src="https://i.ibb.co/gTBxfxm/Cadastar-Filme.png" 		alt="Cadastar-Filme" border="0"></a>
     <a href="https://imgbb.com/"><img src="https://i.ibb.co/2F6xHSp/Listar-Filmes.png" 			alt="Listar-Filmes" border="0"></a>
     <a href="https://imgbb.com/"><img src="https://i.ibb.co/26PCcyz/Atualizar-Filmes.png" 			alt="Atualizar-Filmes" border="0"></a>
-    <a href="https://imgbb.com/"><img src="https://i.ibb.co/chhgXqF/Depois-Da-					Atualizacao.png" alt="Depois-Da-Atualizacao" border="0"></a>
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/chhgXqF/Depois-Da-Atualizacao.png" alt="Depois-Da-Atualizacao" border="0"></a>
     <a href="https://imgbb.com/"><img src="https://i.ibb.co/DV6J5q4/Excluir-Filme.png" 			alt="Excluir-Filme" border="0"></a>
 </div>
 
